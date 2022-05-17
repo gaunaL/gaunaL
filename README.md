@@ -10,6 +10,7 @@ Some things about me:
 - Studying in parallel at CodeAcademy, W3Schools and Programiz, the C, C++, C#, Java languages and also HTML/CSS/Javascript;
 
 }
+
 Algumas coisas sobre mim:
 
 {
